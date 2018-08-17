@@ -1,0 +1,8 @@
+altgraph==0.16.1
+future==0.16.0
+macholib==1.10
+pefile==2018.8.8
+pygame==1.9.4
+PyInstaller==3.3.1
+pypiwin32==223
+pywin32==223

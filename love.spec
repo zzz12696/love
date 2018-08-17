@@ -2,7 +2,7 @@
 
 block_cipher = None
 
-add_filed = (("1.png", "."), ("1.mp3", "."), ("msyhl.ttc", "."))
+add_filed = [("1.png", "."), ("1.mp3", "."), ("msyhl.ttc", ".")]
 a = Analysis(['love.py'],
              pathex=['C:\\Users\\12696\\PycharmProjects\\love'],
              binaries=[],

@@ -91,6 +91,7 @@ def main():
     screen = pygame.display.set_mode((WIDTH, HEIGHT), 0, 32)
     # 设置窗口显示标题
     pygame.display.set_caption('FROM一个喜欢你很久的小哥哥(#^.^#)')
+
     clock = pygame.time.Clock()
     # 加载音乐
     pygame.mixer.music.load(MUSICPATH)
