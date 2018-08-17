@@ -1,0 +1,51 @@
+missing module named 'win32com.gen_py' - imported by win32com, c:\users\12696\envs\love\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named pyimod03_importers - imported by PyInstaller.loader.pyimod02_archive, c:\users\12696\envs\love\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named StringIO - imported by PyInstaller.lib.modulegraph._compat, PyInstaller.lib.modulegraph.zipio, pkg_resources._vendor.six
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named __builtin__ - imported by pkg_resources._vendor.pyparsing
+missing module named ordereddict - imported by pkg_resources._vendor.pyparsing
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named _scproxy - imported by urllib.request
+missing module named 'macholib.compat' - imported by macholib.MachO
+missing module named _pkgutil - imported by PyInstaller.lib.modulegraph.modulegraph
+missing module named xdis - imported by PyInstaller.lib.modulegraph._compat
+missing module named dis3 - imported by PyInstaller.lib.modulegraph._compat
+missing module named urllib.pathname2url - imported by urllib, PyInstaller.lib.modulegraph._compat
+missing module named PyQt5 - imported by PyInstaller.utils.hooks.qt
+missing module named pyimod00_crypto_key - imported by PyInstaller.loader.pyimod02_archive
+missing module named thread - imported by PyInstaller.loader.pyimod02_archive
+missing module named Crypto - imported by PyInstaller.building.makespec
+missing module named 'win32ctypes.pywin32' - imported by PyInstaller.compat
+missing module named win32ctypes - imported by PyInstaller.compat
+missing module named UserDict - imported by PyInstaller.compat
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, pkg_resources._vendor.packaging.requirements
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources
+missing module named resource - imported by posix, C:\Users\12696\PycharmProjects\love\love.py
+missing module named posix - imported by os, C:\Users\12696\PycharmProjects\love\love.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\12696\PycharmProjects\love\love.py
+missing module named readline - imported by cmd, code, pdb, C:\Users\12696\PycharmProjects\love\love.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, PyInstaller.loader.pyimod02_archive, C:\Users\12696\PycharmProjects\love\love.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\12696\PycharmProjects\love\love.py
+missing module named _winreg - imported by platform, pygame, pygame.sysfont, C:\Users\12696\PycharmProjects\love\love.py, pkg_resources._vendor.appdirs
+missing module named java - imported by platform, C:\Users\12696\PycharmProjects\love\love.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, C:\Users\12696\PycharmProjects\love\love.py
+missing module named vms_lib - imported by platform, C:\Users\12696\PycharmProjects\love\love.py
+missing module named termios - imported by tty, getpass, C:\Users\12696\PycharmProjects\love\love.py
+missing module named grp - imported by shutil, tarfile, C:\Users\12696\PycharmProjects\love\love.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\12696\PycharmProjects\love\love.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, C:\Users\12696\PycharmProjects\love\love.py
+missing module named org - imported by pickle, C:\Users\12696\PycharmProjects\love\love.py
+missing module named 'org.python' - imported by copy, xml.sax, C:\Users\12696\PycharmProjects\love\love.py
+missing module named copy_reg - imported by cStringIO, pygame
+missing module named 'pygame._view' - imported by pygame
+missing module named pygame.sdlmain_osx - imported by pygame, pygame.macosx
+missing module named OpenGL - imported by pygame
+missing module named numpy - imported by pygame._numpysurfarray, pygame._numpysndarray, pygame
+missing module named 'pygame.movie' - imported by pygame
+missing module named pygame.SRCALPHA - imported by pygame, pygame.ftfont
+missing module named Queue - imported by pygame.threads
+missing module named Py25Queue - imported by pygame.threads
+missing module named cStringIO - imported by pygame.compat
